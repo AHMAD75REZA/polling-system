@@ -1,1 +1,1 @@
-# polling-system
+# Polling-API
